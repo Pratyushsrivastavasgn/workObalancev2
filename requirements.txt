@@ -1,0 +1,10 @@
+pymongo
+opencv-python
+opencv-contrib-python
+numpy
+pillow
+matplotlib
+scikit-learn
+pandas
+mediapipe
+python-dotenv
